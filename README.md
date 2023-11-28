@@ -1,0 +1,1 @@
+# poolswallet-app-translation
