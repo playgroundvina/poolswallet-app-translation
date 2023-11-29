@@ -1,1 +1,5 @@
-{}
+{
+    "setting": {
+        "hello": "Xin chào"
+    }
+}
